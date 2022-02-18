@@ -39,7 +39,7 @@
     },
     "ALIVE_PIC": {
       "description": "Put here any telegraph media link for alive pic in .tornado command.",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://telegra.ph/file/21be5b02ff5de6690c046.mp4",
       "required": false
     },
     "BIO_MSG": {
@@ -49,7 +49,7 @@
     },
     "PMPERMIT_PIC": {
       "description": "put here any telegraph media link for custom pmpermit pic.",
-      "value": "https://telegra.ph/file/502d3b7372c1c395bba5a.mp4",
+      "value": "https://telegra.ph/file/21be5b02ff5de6690c046.mp4",
       "required": true
     },
     "CUSTOM_PMPERMIT": {
@@ -103,7 +103,7 @@
     },
     "HELP_PIC": {
       "description": "Put link of pic or gif to show your .help menu provider cool",
-      "value": "https://telegra.ph/file/63c3da961d4bd91d7f367.mp4",
+      "value": "https://telegra.ph/file/21be5b02ff5de6690c046.mp4",
       "required": false 
     },
     "EMOJI_IN_HELP": {
